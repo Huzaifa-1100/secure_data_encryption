@@ -1,2 +1,3 @@
 libssl-dev
 cryptography
+build-essential
